@@ -48,7 +48,7 @@ Gradient.Parent = Panel
 Gradient.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 Gradient.BorderSizePixel = 0
 Gradient.Position = UDim2.new(0, 10, 0, 10)
-Gradient.Size = UDim2.new(0, 780, 0, 3)
+Gradient.Size = UDim2.new(0, 250, 0, 3)
 
 UIGradient.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(14, 163, 180)), ColorSequenceKeypoint.new(0.26, Color3.fromRGB(25, 96, 184)), ColorSequenceKeypoint.new(0.52, Color3.fromRGB(169, 21, 255)), ColorSequenceKeypoint.new(0.77, Color3.fromRGB(190, 202, 20)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(243, 255, 25))}
 UIGradient.Parent = Gradient
@@ -58,7 +58,7 @@ Sections.Parent = Panel
 Sections.BackgroundColor3 = Color3.fromRGB(10, 10, 10)
 Sections.BorderSizePixel = 0
 Sections.Position = UDim2.new(0, 10, 0, 15)
-Sections.Size = UDim2.new(0, 110, 0, 625)
+Sections.Size = UDim2.new(0, 110, 0, 250)
 
 AimbotTab.Name = "AimbotTab"
 AimbotTab.Parent = Sections
